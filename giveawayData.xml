@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>  
-<resources>  
-	<giveaways>
-		<giveaway>
-			<title>Title 1</title>
-			<short>Short 1</short>
-			<website>www1</website>
-		</giveaway>
-		<giveaway>
-			<title>Title 2</title>
-			<short>Short 2</short>
-			<website>www2</website>
-		</giveaway>
-	</giveaways>
- </resources>
+<root>
+	<giveaway>
+		<title>Title 1</title>
+		<short>Short 1</short>
+		<website>www1</website>
+	</giveaway>
+	<giveaway>
+		<title>Title 2</title>
+		<short>Short 2</short>
+		<website>www2</website>
+	</giveaway>
+ </root>
