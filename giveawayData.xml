@@ -1,27 +1,27 @@
 <root>
 	<giveaway>
-		<title>Title 1</title>
-		<short>Short 1</short>
+		<title>Whispers in the Mist</title>
+		<short>Journey into the mysterious fog-covered town of Eldoria, where whispers echo through the mist, revealing long-buried secrets and hidden dangers. Unravel the enigma of this atmospheric thriller as you navigate through the chilling unknown.</short>
 		<website>www1</website>
 	</giveaway>
 	<giveaway>
-		<title>Title 2</title>
-		<short>Short 2</short>
+		<title>Echoes of Eternity</title>
+		<short>Step into a world where time stands still, and echoes of past lives reverberate through the ages. Explore ancient ruins, solve perplexing puzzles, and uncover the truth behind a timeless mystery that spans generations in this captivating adventure game.</short>
 		<website>www2</website>
 	</giveaway>
 	<giveaway>
-		<title>Title 3</title>
-		<short>Short 3</short>
+		<title>Shadows of the Forgotten</title>
+		<short>Delve into the depths of a forgotten kingdom shrouded in darkness and despair. As a lone explorer, brave the haunted halls of crumbling castles, confront malevolent spirits, and piece together the tragic history of a realm lost to time.</short>
 		<website>www3</website>
 	</giveaway>
 	<giveaway>
-		<title>Title 4</title>
-		<short>Short 4</short>
+		<title>Whispers of the Lost Woods</title>
+		<short>Embark on a journey through the haunting depths of the Lost Woods, where whispers of forgotten souls beckon you into the heart of darkness. Solve cryptic riddles, evade sinister creatures, and uncover the truth behind the forest's ancient curse in this spine-tingling adventure.</short>
 		<website>www4</website>
 	</giveaway>
 	<giveaway>
-		<title>Title 5</title>
-		<short>Short 5</short>
+		<title>Echoes from the Abyss</title>
+		<short>Plunge into the depths of the ocean's abyss, where echoes of a forgotten civilization lie buried beneath the waves. Navigate treacherous underwater caves, encounter otherworldly creatures, and unearth the secrets of a lost civilization in this immersive underwater exploration game.</short>
 		<website>www5</website>
 	</giveaway>
  </root>
