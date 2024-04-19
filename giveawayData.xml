@@ -9,4 +9,19 @@
 		<short>Short 2</short>
 		<website>www2</website>
 	</giveaway>
+	<giveaway>
+		<title>Title 3</title>
+		<short>Short 3</short>
+		<website>www3</website>
+	</giveaway>
+	<giveaway>
+		<title>Title 4</title>
+		<short>Short 4</short>
+		<website>www4</website>
+	</giveaway>
+	<giveaway>
+		<title>Title 5</title>
+		<short>Short 5</short>
+		<website>www5</website>
+	</giveaway>
  </root>
