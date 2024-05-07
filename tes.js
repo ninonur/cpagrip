@@ -1,3 +1,3 @@
 function dummy() {
-  log("dummy");
+  alert("Hello! I am an alert box!");
 }
