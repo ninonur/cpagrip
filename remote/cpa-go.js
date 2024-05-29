@@ -4,6 +4,7 @@ var xhttp = new XMLHttpRequest();
 
 var script = document.createElement('script');
 script.onload = function () {
+  console.log("bot checker");
   new BotDetector({
     timeout: 1000,
     callback: function(result) {
