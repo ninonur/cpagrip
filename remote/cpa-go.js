@@ -9,7 +9,7 @@ function initialize() {
       timeout: 1000,
       callback: function(result) {
         if(result.isBot === false) {
-          redirectCPA();
+          redirectPuppyFood();
         }
       }
     }).monitor();
@@ -34,4 +34,8 @@ function redirectCPA() {
       window.location.href = item.offerlink;
     }
   };
+}
+
+function redirectPuppyFood() {
+  window.location.href = 'https://puppyfoodfree.pages.dev/';
 }
