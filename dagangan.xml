@@ -1,9 +1,254 @@
 <root>
-	<product>
-		<title>Electric Can Opener</title>
-		<link>https://amzn.to/4czVMIf</link>
-		<thumbnail>https://m.media-amazon.com/images/I/51YaULsKHFL._AC_UL320_.jpg</thumbnail>
-		<price>29.99</price>
-		<rate>4.2</rate>
-	</product>
+	<ebook>
+		<title>Then She Was Gone</title>
+		<link>https://amzn.to/3XBO5wY</link>
+		<thumbnail>https://m.media-amazon.com/images/I/91InbVVF90L._AC_UL320_.jpg</thumbnail>
+		<price>2.99</price>
+		<rate>4.5</rate>
+	</ebook>
+	<ebook>
+		<title>The Women</title>
+		<link>https://amzn.to/4evjSp7</link>
+		<thumbnail>https://m.media-amazon.com/images/I/913C+MR3S5L._AC_UL320_.jpg</thumbnail>
+		<price>14.99</price>
+		<rate>4.7</rate>
+	</ebook>
+	<ebook>
+		<title>Fused in Fire</title>
+		<link>https://amzn.to/45yC25t</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71ttwCfP2vL._AC_UL320_.jpg</thumbnail>
+		<price>12.99</price>
+		<rate>4.6</rate>
+	</ebook>
+	<ebook>
+		<title>Land of Dust and Hope</title>
+		<link>https://amzn.to/3KVgqGJ</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71HnJqEjrpL._AC_UL320_.jpg</thumbnail>
+		<price>16.95</price>
+		<rate>4.4</rate>
+	</ebook>
+	<ebook>
+		<title>Hazardous Lies</title>
+		<link>https://amzn.to/4baY2UZ</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71N9xrRfW0L._AC_UL320_.jpg</thumbnail>
+		<price>19.50</price>
+		<rate>4.6</rate>
+	</ebook>
+	<ebook>
+		<title>Caretaker</title>
+		<link>https://amzn.to/4cbMm5Q</link>
+		<thumbnail>https://m.media-amazon.com/images/I/91bG0pHUyPL._AC_UL320_.jpg</thumbnail>
+		<price>24.99</price>
+		<rate>4.4</rate>
+	</ebook>
+	<ebook>
+		<title>Eruption</title>
+		<link>https://amzn.to/3xtbc1U</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81SIQfF-aGL._AC_UL320_.jpg</thumbnail>
+		<price>15.99</price>
+		<rate>4.3</rate>
+	</ebook>
+	<ebook>
+		<title>Funny Story</title>
+		<link>https://amzn.to/3RDMxPg</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71ajiVevZgL._AC_UL320_.jpg</thumbnail>
+		<price>12.99</price>
+		<rate>4.5</rate>
+	</ebook>
+	<ebook>
+		<title>Camino Ghosts</title>
+		<link>https://amzn.to/4beHdbN</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81ph8ZmUIsL._AC_UL320_.jpg</thumbnail>
+		<price>14.99</price>
+		<rate>4.5</rate>
+	</ebook>
+	<ebook>
+		<title>House of Flame and Shadow</title>
+		<link>https://amzn.to/3zarbT3</link>
+		<thumbnail>https://m.media-amazon.com/images/I/91llOxQlscL._AC_UL320_.jpg</thumbnail>
+		<price>9.18</price>
+		<rate>4.6</rate>
+	</ebook>
+	<ebook>
+		<title>A Court of Thorns and Roses</title>
+		<link>https://amzn.to/3zmbvfq</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81A-T+X6ukL._AC_UL320_.jpg</thumbnail>
+		<price>8.21</price>
+		<rate>4.6</rate>
+	</ebook>
+	<ebook>
+		<title>Fourth Wing</title>
+		<link>https://amzn.to/4bjF3ro</link>
+		<thumbnail>https://m.media-amazon.com/images/I/914HWd0RxsL._AC_UL320_.jpg</thumbnail>
+		<price>14.99</price>
+		<rate>4.8</rate>
+	</ebook>
+	<ebook>
+		<title>Mind Games</title>
+		<link>https://amzn.to/3RFbdGO</link>
+		<thumbnail>https://m.media-amazon.com/images/I/819z94gN6ZL._AC_UL320_.jpg</thumbnail>
+		<price>14.99</price>
+		<rate>4.7</rate>
+	</ebook>
+	<ebook>
+		<title>Iron Flame</title>
+		<link>https://amzn.to/4bhFH8K</link>
+		<thumbnail></thumbnail>
+		<price>14.99</price>
+		<rate>4.6</rate>
+	</ebook>
+	<ebook>
+		<title>Swan Song</title>
+		<link>https://amzn.to/4cynPYi</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71dSn3QCY6L._AC_UL320_.jpg</thumbnail>
+		<price>14.99</price>
+		<rate>4.5</rate>
+	</ebook>
+	<ebook>
+		<title>The Frozen River</title>
+		<link>https://amzn.to/3RCIzGm</link>
+		<thumbnail>https://m.media-amazon.com/images/I/91eaYIRwX0L._AC_UL320_.jpg</thumbnail>
+		<price>14.99</price>
+		<rate>4.6</rate>
+	</ebook>
+	<ebook>
+		<title>The Seaside Sisters</title>
+		<link>https://amzn.to/3zftZhR</link>
+		<thumbnail>https://m.media-amazon.com/images/I/812gWMBofrL._AC_UL320_.jpg</thumbnail>
+		<price>7.99</price>
+		<rate>4.4</rate>
+	</ebook>
+	<music>
+		<title>This Is Your Brain on Music</title>
+		<link>https://amzn.to/3ze8vBY</link>
+		<thumbnail>https://m.media-amazon.com/images/I/717AZlNkIOL._AC_UL320_.jpg</thumbnail>
+		<price>10.79</price>
+		<rate>4.5</rate>
+	</music>
+	<music>
+		<title>Country Music</title>
+		<link>https://amzn.to/3xjWMRR</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71H88YhvWVL._AC_UL320_.jpg</thumbnail>
+		<price>32.97</price>
+		<rate>4.9</rate>
+	</music>
+	<music>
+		<title>Music Is in Everything</title>
+		<link>https://amzn.to/45DzF11</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71YcrCC1xjL._AC_UL320_.jpg</thumbnail>
+		<price>15.79</price>
+		<rate>4.6</rate>
+	</music>
+	<music>
+		<title>Piano Sheet Music</title>
+		<link>https://amzn.to/4coEdLe</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81MYGaflSgL._AC_UL320_.jpg</thumbnail>
+		<price>7.50</price>
+		<rate>4.6</rate>
+	</music>
+	<music>
+		<title>First 50 Popular Songs</title>
+		<link>https://amzn.to/3xFcnLE</link>
+		<thumbnail>https://m.media-amazon.com/images/I/61fOqgekc2L._AC_UL320_.jpg</thumbnail>
+		<price>16.82</price>
+		<rate>4.5</rate>
+	</music>
+	<music>
+		<title>Contemporary Disney</title>
+		<link>https://amzn.to/3VT6zrr</link>
+		<thumbnail>https://m.media-amazon.com/images/I/618SMQ18MkL._AC_UL320_.jpg</thumbnail>
+		<price>25.38</price>
+		<rate>4.7</rate>
+	</music>
+	<music>
+		<title>Country Legends Greatest Hits</title>
+		<link>https://amzn.to/3XGVhHQ</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81c4vVIhqsL._AC_UL320_.jpg</thumbnail>
+		<price>4.32</price>
+		<rate>4.4</rate>
+	</music>
+	<music>
+		<title>The Music Man</title>
+		<link>https://amzn.to/45AjfXf</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81dJEVW6BjL._AC_UL320_.jpg</thumbnail>
+		<price>16.90</price>
+		<rate>4.8</rate>
+	</music>
+	<music>
+		<title>In Restless Dreams</title>
+		<link>https://amzn.to/45BGFvu</link>
+		<thumbnail>https://m.media-amazon.com/images/I/61aKy4StrZL._AC_UL320_.jpg</thumbnail>
+		<price>21.98</price>
+		<rate>5</rate>
+	</music>
+	<movie>
+		<title>Scooby-Doo, Where Are You</title>
+		<link>https://amzn.to/3XzeE5S</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81+HGOByFxL._AC_UL320_.jpg</thumbnail>
+		<price>30.99</price>
+		<rate>4.8</rate>
+	</movie>
+	<movie>
+		<title>Samurai Jack</title>
+		<link>https://amzn.to/4bdhqRu</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71PIU0Nr6cL._AC_UL320_.jpg</thumbnail>
+		<price>39.90</price>
+		<rate>4.8</rate>
+	</movie>
+	<movie>
+		<title>Rush Hour Trilogy</title>
+		<link>https://amzn.to/4ctApIr</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71Hj3tqrZNL._AC_UL320_.jpg</thumbnail>
+		<price>14.90</price>
+		<rate>4.8</rate>
+	</movie>
+	<movie>
+		<title>100 Recipes from Movies</title>
+		<link>https://amzn.to/3RFuub9</link>
+		<thumbnail>https://m.media-amazon.com/images/I/817gq5ZpP7L._AC_UL320_.jpg</thumbnail>
+		<price>16.59</price>
+		<rate>4.9</rate>
+	</movie>
+	<movie>
+		<title>Cocktail Chemistry</title>
+		<link>https://amzn.to/3REXm3c</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71OrYRCQWVL._AC_UL320_.jpg</thumbnail>
+		<price>11.93</price>
+		<rate>4.7</rate>
+	</movie>
+	<movie>
+		<title>Gilligan's Island</title>
+		<link>https://amzn.to/3VS4Jqy</link>
+		<thumbnail>https://m.media-amazon.com/images/I/91ULi+muoZL._AC_UL320_.jpg</thumbnail>
+		<price>26.96</price>
+		<rate>4.7</rate>
+	</movie>
+	<movie>
+		<title>Star Trek: Discovery</title>
+		<link>https://amzn.to/3RCyycl</link>
+		<thumbnail>https://m.media-amazon.com/images/I/615WugAn6AL._AC_UL640_QL65_.jpg</thumbnail>
+		<price>38.65</price>
+		<rate>4.0</rate>
+	</movie>
+	<movie>
+		<title>The Munsters</title>
+		<link>https://amzn.to/4cbLNJi</link>
+		<thumbnail>https://m.media-amazon.com/images/I/81c0ZZfdM-L._AC_UL320_.jpg</thumbnail>
+		<price>13.29</price>
+		<rate>4.8</rate>
+	</movie>
+	<movie>
+		<title>Adventure Time</title>
+		<link>https://amzn.to/4cf0dse</link>
+		<thumbnail>https://m.media-amazon.com/images/I/71zpWj+o0ML._AC_UL320_.jpg</thumbnail>
+		<price>66.16</price>
+		<rate>4.4</rate>
+	</movie>
+	<movie>
+		<title>The Flintstones</title>
+		<link>https://amzn.to/3zo0eLB</link>
+		<thumbnail>https://m.media-amazon.com/images/I/813qJ5CbpzL._AC_UL320_.jpg</thumbnail>
+		<price>39.99</price>
+		<rate>4.8</rate>
+	</movie>
  </root>
