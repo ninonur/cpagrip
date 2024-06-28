@@ -1,1 +1,23 @@
-
+<root>
+	<hair>
+		<title>Hair Dryer 1</title>
+		<link>https://amzn.to/3XBO5wY</link>
+		<video>https://m.media-amazon.com/images/I/91InbVVF90L._AC_UL320_.jpg</video>
+		<price>2.99</price>
+		<rate>4.5</rate>
+	</hair>
+	<hair>
+		<title>Hair Dryer 2</title>
+		<link>https://amzn.to/3XBO5wY</link>
+		<video>https://m.media-amazon.com/images/I/91InbVVF90L._AC_UL320_.jpg</video>
+		<price>2.99</price>
+		<rate>4.5</rate>
+	</hair>
+	<hair>
+		<title>Hair Dryer 3</title>
+		<link>https://amzn.to/3XBO5wY</link>
+		<video>https://m.media-amazon.com/images/I/91InbVVF90L._AC_UL320_.jpg</video>
+		<price>2.99</price>
+		<rate>4.5</rate>
+	</hair>
+ </root>
