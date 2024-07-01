@@ -3,9 +3,9 @@
 		<title>Nails</title>
 		<link>https://amzn.to/3XBO5wY</link>
 		<videos>
-			<value>https://github.com/ninonur/cpagrip/blob/main/remote/product-video/Vid1.mp4</value>
+			<value>https://github.com/ninonur/cpagrip/raw/main/remote/product-video/Vid1.mp4</value>
 			<value>https://sample-videos.com/video321/mp4/480/big_buck_bunny_480p_1mb.mp4</value>
-			<value>https://github.com/ninonur/cpagrip/blob/main/remote/product-video/Vid1.mp4</value>
+			<value>https://github.com/ninonur/cpagrip/raw/main/remote/product-video/Vid1.mp4</value>
 		</videos>
 		<price>2.99</price>
 		<rate>4.5</rate>
