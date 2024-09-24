@@ -1,20 +1,23 @@
 [
     {
-        "Title": "Tes One",
-        "Description": "Escape is a free PSD web template built by Mathavan Jaya. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.",
-        "Category": "Character",
-        "Publish": "12 Jan 2018"
+        "title": "Tes One",
+        "description": "Escape is a free PSD web template built by Mathavan Jaya. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.",
+        "category": "Character",
+        "publish": "12 Jan 2018",
+        "thumbnail": "1"
     },
     {
-        "Title": "Tes Two",
-        "Description": "Escape is a free PSD web template built by Mathavan Jaya. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.",
-        "Category": "Character",
-        "Publish": "13 Feb 2020"
+        "title": "Tes Two",
+        "description": "Escape is a free PSD web template built by Mathavan Jaya. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.",
+        "category": "Character",
+        "publish": "13 Feb 2020",
+        "thumbnail": "2"
     },
     {
-        "Title": "Tes Three",
-        "Description": "Escape is a free PSD web template built by Mathavan Jaya. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.",
-        "Category": "Character",
-        "Publish": "25 Des 2023"
+        "title": "Tes Three",
+        "description": "Escape is a free PSD web template built by Mathavan Jaya. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.",
+        "category": "Character",
+        "publish": "25 Dec 2023",
+        "thumbnail": "3"
     }
 ]
